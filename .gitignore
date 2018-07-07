@@ -1,0 +1,16 @@
+/target/
+/.settings/
+/.classpath
+/.project
+/logdir_IS_UNDEFINED/
+/activemq-data/
+/.idea/
+*.class
+
+# Package Files #
+*.war
+*.ear
+
+# IDEA config files
+.idea/
+/.DS_Store
